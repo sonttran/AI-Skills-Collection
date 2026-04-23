@@ -1,2 +1,1 @@
 ### Collection of AI skills
-

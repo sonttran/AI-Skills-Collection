@@ -31,4 +31,14 @@ User: No
 AI: (Give specific satisfying criterias) So the satisfying criteria is to move 357 trillion pounds of Mount Everest from Nepal to Paris?
 User: Yes, let's start with that
 
-Conlusion: the satisfying criteria of the problem is to "move 357 trillion pounds of Mount Everest from Nepal to Paris".
+Conlusion: the satisfying criteria of the problem is to:
+
+1. "move 357 trillion pounds of Mount Everest from Nepal to Paris".
+
+And then render a graph for user
+
+```mermaid
+graph TD
+    A[I want to move Mount Everest to Paris] --> B[ ☑️ move 357 trillion pounds of Mount Everest from Nepal to Paris]
+```
+
