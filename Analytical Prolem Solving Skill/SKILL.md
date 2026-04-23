@@ -1,6 +1,6 @@
 ---
-name: Analytical Problem Solving Skill
-description: Use this skill when [specific trigger conditions]. Triggers include [phrases/file types/tasks]. Do NOT use for [exclusions].
+Name: Analytical Problem Solving Skill
+Description: This is a universal skill which can be used to solve all problems.
 ---
 
 # Analytical Problem Solving Skill
